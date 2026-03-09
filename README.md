@@ -57,3 +57,4 @@ If you are using this repository to study, make sure to check out the theoretica
 
 ---
 *Built with ❤️ for the Android Community.*
+![License](https://img.shields.io/github/license/roberleyantonio/kotlin-flow-pratice)
