@@ -1,4 +1,4 @@
-# 🚀 Kotlin Flow Masterclass: The Definitive Android Guide
+# 🚀 Kotlin Flow in Practice: A Mentorship Guide
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blue.svg?logo=kotlin)
 ![Coroutines](https://img.shields.io/badge/Coroutines-1.7.3-success.svg)
