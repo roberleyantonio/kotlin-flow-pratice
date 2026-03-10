@@ -18,7 +18,7 @@ fun main() = runBlocking {
 
 // EXAMPLE 1: Holding the UI state for configuration changes (screen rotations)
 suspend fun basicUiStateManagement() {
-    coroutineScope { // O wrap correto que você sugeriu!
+    coroutineScope {
         val uiState = MutableStateFlow("Loading Screen...")
 
         val uiJob = launch {
