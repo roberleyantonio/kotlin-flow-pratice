@@ -1,4 +1,4 @@
-# 🚀 Kotlin Flow Masterclass: The Definitive Android Guide
+# 🚀 Kotlin Flow in Practice: A Mentorship Guide
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blue.svg?logo=kotlin)
 ![Coroutines](https://img.shields.io/badge/Coroutines-1.7.3-success.svg)
@@ -57,3 +57,4 @@ If you are using this repository to study, make sure to check out the theoretica
 
 ---
 *Built with ❤️ for the Android Community.*
+![License](https://img.shields.io/github/license/roberleyantonio/kotlin-flow-pratice)
