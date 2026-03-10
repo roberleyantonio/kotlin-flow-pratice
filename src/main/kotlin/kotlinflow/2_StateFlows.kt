@@ -44,7 +44,6 @@ suspend fun convertingColdToHotState() {
             emit("User Settings Data")
         }
 
-        // 'this' agora se refere de forma segura ao coroutineScope
         val hotStateFlow = coldDatabaseFlow.stateIn(
             scope = this,
             started = SharingStarted.Lazily,
